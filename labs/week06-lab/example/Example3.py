@@ -14,8 +14,8 @@ def calculate_rectangle_area(height, basa):
     area = 0.5 * height * basa
     print(f"Trangle with height {height} and basa {basa}")
     print(f"Area = 0.5 x {height} x {basa} = {area}")
-    print()
+    print() 
 
 print("Calculating rectangle areas:")
 calculate_rectangle_area(5, 3)
-calculate_rectangle_area(10, 7)
+calculate_rectangle_area(10, 7)  
