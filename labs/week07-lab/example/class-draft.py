@@ -1,3 +1,4 @@
+""""""
 class ClassName:
     """Class docstring"""
     
@@ -8,7 +9,6 @@ class ClassName:
     def method_name(self):
         # Instance method
         return something
-
 
 myObj = ClassName(parameters)
 print(myObj.attribute)
